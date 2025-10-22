@@ -1,0 +1,25 @@
+body {
+  background-color: white;
+  animation: colorxd 2s linear repeat;
+}
+
+@keyframes colorxd {
+  10% {
+    background-color: blue;
+  }
+  30% {
+    background-color: red;
+  }
+  
+  60% {
+    background-color: green;
+  }
+  
+  80% {
+    background-color: yellow;
+  }
+  
+  100% {
+    background-color: aquamarine;
+  }
+}
