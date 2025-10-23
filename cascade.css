@@ -1,6 +1,6 @@
 body {
   background-color: white;
-  animation: colorxd 2s linear infinite;
+  animation: colorxd 0.5s linear infinite;
 }
 
 @keyframes colorxd {
